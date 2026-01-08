@@ -20,6 +20,9 @@ public class m3_group_activity {
         }    
         public String getName() { 
         	return name; 
+        	return name1; 
+        	return name2; 
+        	return name3; 
         }
         public double getPrice() { 
         	return price; 
